@@ -1,0 +1,44 @@
+body, html {
+    font-family:pingfang sc,helvetica neue,Helvetica,STHeitiSC-Light,Arial,sans-serif;
+    background: #9b6354 url("//i.loli.net/2018/09/30/5bafaa5269b9b.jpg") no-repeat;
+    background-size: cover;
+}
+.text-center {
+    text-align: center;
+}
+.intro {
+    max-width: 780px;
+    width: 100%;
+    margin: 0 auto 100px;
+    padding: 150px 150px 100px;
+}
+
+.install-card {
+    padding: 10px 25px; background: #fff; opacity: .9; border-radius: 8px;-webkit-box-shadow: -4px -3px 64px -5px rgba(0,0,0,0.56);
+    -moz-box-shadow: -4px -3px 64px -5px rgba(0,0,0,0.56);
+    box-shadow: -4px -3px 64px -5px rgba(0,0,0,0.56);
+}
+
+[v-cloak] {
+    display: none;
+}
+
+.tip {
+    font-size: .85em;
+    color: #9c1313;
+}
+
+.install-btn {
+    margin-top: 20px;
+    font-size: 1.25em;
+}
+
+#footer {
+    margin-top: 20px;
+    clear: both;
+    width: 100%;
+    padding: 15px 0;
+    font-size: 0.85em;
+    color: #f8f8f8;
+    text-align: center;
+}
